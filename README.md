@@ -1,4 +1,4 @@
-# Recorder-Android-Studio
+# Audio Recorder App
 
 This is an Android application that allows users to record, play and manage audio recordings. 
 The project is built using Android Studio and is designed to be a simple tool for audio recording on Android devices.
